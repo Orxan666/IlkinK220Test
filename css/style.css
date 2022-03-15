@@ -1,0 +1,44 @@
+.header .top-header {
+  background-color: #000000;
+}
+
+.header .top-header .top-left .tel {
+  color: #878787;
+}
+
+.header .top-header .top-left .mail {
+  color: #878787;
+}
+
+.header .top-header .top-left .loc {
+  color: #878787;
+}
+
+.header .bottom-header .logo img {
+  width: 250px;
+}
+
+.header .bottom-header .menu ul li {
+  margin-left: 40px;
+}
+
+.header .bottom-header .menu ul li a {
+  text-decoration: none;
+  color: #000;
+  font-family: 'Fredoka', sans-serif;
+}
+
+.header .bottom-header .right {
+  margin-bottom: 20px;
+}
+
+.header .bottom-header .right .tel {
+  font-family: 'Fredoka', sans-serif;
+  font-size: 16px;
+}
+
+.header .bottom-header .right .loc {
+  font-family: 'Fredoka', sans-serif;
+  font-size: 16px;
+}
+/*# sourceMappingURL=style.css.map */
